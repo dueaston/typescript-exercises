@@ -1,0 +1,72 @@
+--Module Introduction--
+
+<Key Take Aways>- TS is an extension of JS. 
+<Areas of Uncertainty>- How to download TS and know if it’s installed globally / locally. 
+
+--What & Why?--
+
+<Key Take Aways>- Static typing can be very useful along with seeing errors in real time. 
+<Areas of Uncertainty>- Installing TS into the project and knowing that the TS file is being called when I run the code. 
+
+
+--Installing & Using TypeScript--
+
+<Key Take Aways>- Understanding of how to install TS into a project. 
+<Areas of Uncertainty- Very confused about the compiler, how to do it, how to know it’s working, when do I write code in the JS file vs. the TS file? 
+
+
+--Base Types and Primitives--
+ 
+<Key Take Aways>- The better I get at JS, the better I will be using TS. 
+<Areas of Uncertainty>- Need to continue building JS knowledge base. 
+
+
+--Array & Object Types-- 
+
+<Key Take Aways>- TS can help manage large amounts of data. 
+<Areas of Uncertainty>- Just continue to build my knowledge base.
+
+--Type Inference--
+
+<Key Take Aways>- Another way to write less code and simplify code. 
+<Areas of Uncertainty>- It seems this is just something that happens organically in TS. It’s not something you have to specifically do. 
+
+--Working with Union Types--
+
+<Key Take Aways>- Method to allow multiple types for the same variable. 
+<Areas of Uncertainty>- Unclear how it saves time if you must list multiple allowable types. You save time in one area but use the same time defining the allowable types. Probably personal preference or project specific regarding how and when to do it. 
+
+
+--Assigning Type Aliases--
+ 
+<Key Take Aways>- Method to reduce written code. 
+<Areas of Uncertainty>- Example was unclear because the code did not need to be repeated so he’s correcting an issue that didn’t exist. Unlcear if it saves time when you must write the substitute. 
+
+--Diving into Functions & Function Types--
+ 
+<Key Take Aways>- Functions a very helpful and customizable. 
+<Areas of Uncertainty>- Expand knowledge to know which functions work best in various applications. 
+
+
+--Understanding Generics--
+ 
+<Key Take Aways>- Generics add flexibility to your code. 
+<Areas of Uncertainty>-Expand knowledge to better understand when these are the best choice. 
+
+
+--Classes and TypeScript--
+ 
+<Key Take Aways>- Classes are a great way to keep your code organized especially when new to a project. 
+<Areas of Uncertainty>- Interested to see the limitations of adding various properties to classes. 
+
+
+--Working with Interfaces--
+ 
+<Key Take Aways>- Interfaces define object shapes and type safety. 
+<Areas of Uncertainty>- Need to incorporate this into my code to better understand how to use it. 
+
+
+--Configuring the TypeScript Compiler--
+ 
+<Key Take Aways>- Configuring the compiler tells TypeScript how to compile your code into JavaScript. 
+<Areas of Uncertainty>- Need to develop a best practice of when to do this and if it should be done multiple times. 
